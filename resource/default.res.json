@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,description_json,bgGrey_png,start_png,title_png,game-over_png,aircraft_png,aircraft_small_png,aircraftBullet_png,enemyBullet_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bgGrey.png",
+			"type": "image",
+			"name": "bgGrey_png"
+		},
+		{
+			"url": "assets/start.png",
+			"type": "image",
+			"name": "start_png"
+		},
+		{
+			"url": "assets/title.png",
+			"type": "image",
+			"name": "title_png"
+		},
+		{
+			"url": "assets/aircraft_small.png",
+			"type": "image",
+			"name": "aircraft_small_png"
+		},
+		{
+			"url": "assets/aircraft.png",
+			"type": "image",
+			"name": "aircraft_png"
+		},
+		{
+			"url": "assets/aircraftBullet.png",
+			"type": "image",
+			"name": "aircraftBullet_png"
+		},
+		{
+			"url": "assets/boss_blood1.png",
+			"type": "image",
+			"name": "boss_blood1_png"
+		},
+		{
+			"url": "assets/boss_blood2.png",
+			"type": "image",
+			"name": "boss_blood2_png"
+		},
+		{
+			"url": "assets/boss.png",
+			"type": "image",
+			"name": "boss_png"
+		},
+		{
+			"url": "assets/bossBullet.png",
+			"type": "image",
+			"name": "bossBullet_png"
+		},
+		{
+			"url": "assets/buff_blood.png",
+			"type": "image",
+			"name": "buff_blood_png"
+		},
+		{
+			"url": "assets/enemyBullet.png",
+			"type": "image",
+			"name": "enemyBullet_png"
+		},
+		{
+			"url": "assets/game-over.png",
+			"type": "image",
+			"name": "game-over_png"
+		},
+		{
+			"url": "assets/hp.fnt",
+			"type": "font",
+			"name": "hp_fnt"
+		},
+		{
+			"url": "assets/hp.png",
+			"type": "image",
+			"name": "hp_png"
+		},
+		{
+			"url": "assets/restart.png",
+			"type": "image",
+			"name": "restart_png"
+		},
+		{
+			"url": "assets/resultBg.png",
+			"type": "image",
+			"name": "resultBg_png"
+		},
+		{
+			"url": "assets/score_title.png",
+			"type": "image",
+			"name": "score_title_png"
+		},
+		{
+			"url": "assets/score.fnt",
+			"type": "font",
+			"name": "score_fnt"
+		},
+		{
+			"url": "assets/score.png",
+			"type": "image",
+			"name": "score_png"
+		}
+	]
+}
